@@ -1,0 +1,9 @@
+EXPORTS
+    DeleteRegKey = DeleteRegKey@8 @1
+    DeleteRegKey@8 @2
+    DeleteRegValue = DeleteRegValue@12 @3
+    DeleteRegValue@12 @4
+    GetRegValue = GetRegValue@20 @5
+    GetRegValue@20 @6
+    SetRegValue = SetRegValue@16 @7
+    SetRegValue@16 @8
